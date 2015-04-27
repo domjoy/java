@@ -1,4 +1,4 @@
-# java
+# JAVA repository
 This is my git repository for everything java related. Starting with some learning sample code, and some reusable java classes to learn from. This code is available under open source license, but please credit the author: 'noisy-cricket' if you wish to use it.
 
 # learn
