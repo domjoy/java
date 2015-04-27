@@ -6,5 +6,7 @@ includes organized java examples for learning the java language. Source code is 
 
 ##### Sdp
 Here's where you'll see:
+
 1) question-answer type java programming assignments
+
 2) reusable java code snippets
